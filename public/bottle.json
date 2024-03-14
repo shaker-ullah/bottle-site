@@ -1,0 +1,56 @@
+[
+    {
+        "id": "001",
+        "name": "Sparkling Water",
+        "image": "link_to_sparkling_water_image",
+        "price": "$1.99"
+    },
+    {
+        "id": "002",
+        "name": "Red Wine",
+        "image": "link_to_red_wine_image",
+        "price": "$15.99"
+    },
+    {
+        "id": "003",
+        "name": "Olive Oil",
+        "image": "link_to_olive_oil_image",
+        "price": "$9.99"
+    },
+    {
+        "id": "004",
+        "name": "Honey",
+        "image": "link_to_honey_image",
+        "price": "$5.99"
+    },
+    {
+        "id": "005",
+        "name": "Whiskey",
+        "image": "link_to_whiskey_image",
+        "price": "$29.99"
+    },
+    {
+        "id": "006",
+        "name": "Lemonade",
+        "image": "link_to_lemonade_image",
+        "price": "$2.99"
+    },
+    {
+        "id": "007",
+        "name": "Champagne",
+        "image": "link_to_champagne_image",
+        "price": "$39.99"
+    },
+    {
+        "id": "008",
+        "name": "Balsamic Vinegar",
+        "image": "link_to_balsamic_vinegar_image",
+        "price": "$7.99"
+    },
+    {
+        "id": "009",
+        "name": "Tequila",
+        "image": "link_to_tequila_image",
+        "price": "$24.99"
+    }
+]
